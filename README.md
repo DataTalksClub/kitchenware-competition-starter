@@ -28,3 +28,10 @@ Using the recipe:
 - Verify that the kaggle secret is linked in the "secrets" tab
 - Run the code and submit your predictions
 - Improve the score
+
+You can also see it as a video:
+
+
+<a href="https://www.loom.com/share/c41e5691bd36414fa4df8de9c905cc58">
+    <img src="https://user-images.githubusercontent.com/875246/206399525-097683c4-62bd-436b-815a-4ac8543502a9.png" />
+</a>
