@@ -1,0 +1,46 @@
+{
+  "name": "kitchenware",
+  "image": {
+    "name": "saturn-python-tensorflow",
+    "version": "2022.06.01",
+    "owner": "saturncloud"
+  },
+  "description": "Train deep learning models with TensorFlow",
+  "environment_variables": {},
+  "working_directory": "/home/jovyan/workspace/kitchenware-competition-starter",
+  "extra_packages": {
+    "pip": {
+      "requirements_txt": "scipy\nkaggle"
+    }
+  },
+  "git_repositories": [
+    {
+      "url": "git@github.com:DataTalksClub/kitchenware-competition-starter.git",
+      "path": "/home/jovyan/workspace/kitchenware-competition-starter",
+      "public": true,
+      "on_restart": "preserve changes",
+      "reference": null,
+      "reference_type": "branch"
+    }
+  ],
+  "secrets": [
+    {
+      "location": "/home/jovyan/.kaggle/kaggle.json",
+      "type": "file",
+      "description": "",
+      "name": "kaggle"
+    }
+  ],
+  "jupyter_server": {
+    "instance_type": "g4dnxlarge",
+    "disk_space": "10Gi",
+    "auto_shutoff": "1 hour",
+    "start_ssh": false,
+    "use_spot_instance": false,
+    "start_dind": false,
+    "self_destruct": false
+  },
+  "owner": "alexey",
+  "visibility": "owner",
+  "schema_version": "2022.08.01"
+}
