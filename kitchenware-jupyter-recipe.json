@@ -1,5 +1,5 @@
 {
-  "name": "kitchenware",
+  "name": "kitchenware-starter",
   "image": {
     "name": "saturn-python-tensorflow",
     "version": "2022.06.01",
