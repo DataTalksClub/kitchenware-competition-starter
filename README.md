@@ -8,8 +8,8 @@ In this notebook, we show how to:
 - Download the data from Kaggle and unzip it
 - Read the data
 - Train an xception model (using the same code as in [ML Zoomcamp](http://mlzoomcamp.com))
-- Making predictions
-- Submitting the results 
+- Make predictions
+- Submit the results 
 
 You can run this notebook in SaturnCloud:
 
