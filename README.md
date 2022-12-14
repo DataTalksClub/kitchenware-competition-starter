@@ -35,3 +35,21 @@ You can also see it as a video:
 <a href="https://www.loom.com/share/c41e5691bd36414fa4df8de9c905cc58">
     <img src="https://user-images.githubusercontent.com/875246/206399525-097683c4-62bd-436b-815a-4ac8543502a9.png" />
 </a>
+
+
+
+<hr>
+
+Another starter notebook by Harpreet Sahota, forked from [here](https://www.kaggle.com/code/harpdeci/supergradients-starter-notebook)
+
+
+You can run this notebook in SaturnCloud:
+
+<p align="center">
+    <a href="https://app.community.saturnenterprise.io/dash/resources?recipeUrl=https://raw.githubusercontent.com/DataTalksClub/kitchenware-competition-starter/main/kitchenware-super-gradient-recipe.json" target="_blank" rel="noopener">
+        <img src="https://saturncloud.io/images/embed/run-in-saturn-cloud.svg" alt="Run in Saturn Cloud"/>
+    </a>
+</p>
+
+This notebook uses SuperGradients and gets much higher score than the previous one 
+
